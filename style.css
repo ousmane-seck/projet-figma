@@ -1,0 +1,3618 @@
+/* screen - frame */
+
+.frame {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 1px none;
+    display: flex;
+    gap: 10px;
+    min-height: 5527.55px;
+    min-width: 1440px;
+    position: relative;
+    width: 100%;
+  }
+  
+  .frame .fram {
+    background-color: #fafbfc;
+    height: 5527.55px;
+    min-width: 1440px;
+    position: relative;
+  }
+  
+  .frame .overlap-group9 {
+    height: 5528px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .frame .divc8-g4j {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    min-height: 5528px;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .frame .divdv-kf {
+    align-items: flex-end;
+    background-color: var(--white);
+    display: flex;
+    margin-top: 62px;
+    min-width: 1200px;
+  }
+  
+  .frame .overlap-group8 {
+    height: 4943px;
+    margin-bottom: 0;
+    position: relative;
+    width: 1200px;
+  }
+  
+  .frame .diva-k9v {
+    align-items: flex-start;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    gap: 34px;
+    left: 0;
+    min-height: 211px;
+    padding: 12.0px 0;
+    position: absolute;
+    top: 0;
+    width: 1200px;
+  }
+  
+  .frame .o-voulez-vous-partir {
+    color: var(--shark);
+    font-family: var(--font-family-roboto);
+    font-size: 32px;
+    font-weight: 700;
+    height: 40px;
+    letter-spacing: 0;
+    line-height: 40px;
+    margin-left: 30px;
+    margin-top: 30px;
+    white-space: nowrap;
+  }
+  
+  .frame .divz-ei-p-form-container {
+    align-self: center;
+    flex-direction: column;
+    gap: 2px;
+    min-height: 83px;
+    width: 1140px;
+  }
+  
+  .frame .divzc-ig {
+    align-items: flex-start;
+    display: flex;
+    gap: 30px;
+    height: 29px;
+    min-width: 1140px;
+  }
+  
+  .frame .divw-iih-handle {
+    align-items: flex-start;
+    display: flex;
+    gap: 6px;
+    padding: 0px 3.81e-06px 0px 0px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .spanw-iih-mod-alignment-left {
+    flex: 1;
+    height: 16.8px;
+    min-width: 75.61px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .frame .aller-retour {
+    height: 18px;
+    left: 0;
+    letter-spacing: 0.42px;
+    line-height: 16.8px;
+    position: absolute;
+    top: -2px;
+    white-space: nowrap;
+    width: 76px;
+  }
+  
+  .frame .spanw-iih-chevron-icon-wrapper {
+    height: 16.8px;
+    min-width: 16.8px;
+    position: relative;
+  }
+  
+  .frame .divs9t-w {
+    align-items: flex-start;
+    display: flex;
+    gap: 6px;
+    min-width: 73px;
+  }
+  
+  .frame .address {
+    height: 17px;
+    letter-spacing: 0.42px;
+    line-height: 16.8px;
+    margin-top: -2px;
+    min-width: 50px;
+    white-space: nowrap;
+  }
+  
+  .frame .svgs9t-w-chevron {
+    align-self: center;
+    height: 17px;
+    width: 17px;
+  }
+  
+  .frame .divw-iih-handle-1 {
+    align-items: flex-start;
+    display: flex;
+    gap: 5.99px;
+    padding: 0px 3.81e-06px 0px 0px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .spanw-iih-mod-alignment-left-1 {
+    flex: 1;
+    height: 16.8px;
+    min-width: 82.19px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .frame .conomique {
+    height: 18px;
+    left: 0;
+    letter-spacing: 0.42px;
+    line-height: 16.8px;
+    position: absolute;
+    top: -2px;
+    white-space: nowrap;
+    width: 82px;
+  }
+  
+  .frame .spanw-iih-chevron-icon-wrapper-1 {
+    height: 16.8px;
+    min-width: 16.8px;
+    position: relative;
+  }
+  
+  .frame .divs9t-w-1 {
+    align-items: flex-start;
+    display: flex;
+    gap: 8px;
+    min-width: 119px;
+  }
+  
+  .frame .aucun-bagage {
+    height: 17px;
+    letter-spacing: 0.42px;
+    line-height: 16.8px;
+    margin-top: -2px;
+    min-width: 94px;
+    white-space: nowrap;
+  }
+  
+  .frame .divz-ei-p-form-field-outline {
+    align-items: flex-start;
+    display: flex;
+    margin-left: -2px;
+    min-width: 1144px;
+    padding: 0 2px;
+  }
+  
+  .frame .divk_my {
+    align-items: flex-start;
+    background-color: var(--porcelain);
+    border-radius: 8px;
+    padding: 1px 47.89px 1px 1px;
+  }
+  
+  .frame .divvv-tc {
+    align-items: flex-start;
+    display: flex;
+    gap: 3px;
+    padding: 12px 9px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divvv-tc-item {
+    align-items: center;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--geyser);
+    border-radius: 2px;
+    display: flex;
+    gap: 4px;
+    overflow: hidden;
+    padding: 5px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divvv-tc-item-value {
+    height: 16px;
+    min-width: 130.22px;
+    position: relative;
+  }
+  
+  .frame .san-francisco-sfo {
+    height: 18px;
+    left: 2px;
+    letter-spacing: 0;
+    line-height: 16px;
+    position: absolute;
+    text-align: center;
+    top: -2px;
+    white-space: nowrap;
+    width: 126px;
+  }
+  
+  .frame .supprimer {
+    height: 12px;
+    min-width: 12px;
+    position: relative;
+  }
+  
+  .frame .divvv-tc-item-1 {
+    height: 26px;
+    min-width: 26px;
+    position: relative;
+  }
+  
+  .frame .permuter-les-aroport {
+    height: 52px;
+    margin-left: 4px;
+    width: 54px;
+  }
+  
+  .frame .divk_my-1 {
+    align-items: center;
+    background-color: var(--porcelain);
+    border-radius: 8px;
+    margin-left: 4px;
+    padding: 1px 1px 1px 18px;
+  }
+  
+  .frame .svg-tn7z-icon {
+    height: 24px;
+    min-width: 24px;
+    position: relative;
+  }
+  
+  .frame .saisie-de-laroport-de-destination {
+    align-items: flex-start;
+    border-radius: 8px;
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+    padding: 5.81px 12px 6.19px 8px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divplaceholder {
+    padding: 0px 168.1px 0px 0px;
+  }
+  
+  .frame .text-1 {
+    color: var(--sonic-silver);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xl2);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    width: 21.01px;
+  }
+  
+  .frame .divz-ei-p-form-field {
+    margin-left: 2px;
+    padding: 0px 2px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divs-r_k {
+    background-color: var(--porcelain);
+    border-radius: 8px;
+    height: 52px;
+    min-width: 507.78px;
+    position: relative;
+  }
+  
+  .frame .divsr_k-container {
+    align-items: center;
+    display: flex;
+    height: 52px;
+    min-width: 508px;
+  }
+  
+  .frame .divs-r_k-input {
+    align-items: flex-start;
+    background-color: var(--porcelain);
+    border-radius: 8px;
+    display: flex;
+    padding: 1px 0px;
+    position: relative;
+    width: 253px;
+  }
+  
+  .frame .slection-de-la-date {
+    border: 1px solid;
+    border-color: var(--porcelain);
+    border-radius: 8px;
+    flex: 1;
+    height: 50px;
+    min-width: 253.39px;
+    position: relative;
+  }
+  
+  .frame .flex-row {
+    align-items: flex-end;
+    display: flex;
+    left: 17px;
+    min-width: 227px;
+    position: relative;
+    top: 12px;
+  }
+  
+  .frame .svg {
+    height: 20px;
+    margin-bottom: 1px;
+    width: 20px;
+  }
+  
+  .frame .ven {
+    height: 24px;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-left: 12px;
+    min-width: 55px;
+    white-space: nowrap;
+  }
+  
+  .frame .spanc_e2-u {
+    height: 18px;
+    margin-bottom: 1px;
+    margin-left: 108px;
+    width: 32px;
+  }
+  
+  .frame .divs-r_k-date-separator {
+    background-color: var(--geyser);
+    height: 24px;
+    width: 1px;
+  }
+  
+  .frame .svg-1 {
+    height: 20px;
+    margin-bottom: 1px;
+    width: 20px;
+  }
+  
+  .frame .rechercher {
+    height: 52px;
+    margin-left: 2px;
+    width: 56px;
+  }
+  
+  .frame .divcontent {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    min-height: 4742px;
+    position: absolute;
+    top: 201px;
+    width: 1200px;
+  }
+  
+  .frame .divc9q8-v {
+    align-items: center;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    min-height: 3770px;
+    padding: 48px 0;
+    width: 1200px;
+  }
+  
+  .frame .divkml-layout {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    min-height: 202px;
+    width: 1200px;
+  }
+  
+  .frame .ce-que-kayak-vous-propose {
+    height: 30px;
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-left: 30px;
+    white-space: nowrap;
+  }
+  
+  .frame .divk-xaf {
+    align-items: flex-start;
+    align-self: center;
+    display: flex;
+    gap: 16px;
+    height: 154px;
+    min-width: 1156px;
+    padding: 0 8px;
+  }
+  
+  .frame .divw-nb7 {
+    align-items: center;
+    border: 1px solid;
+    border-color: var(--geyser);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    min-height: 154px;
+    padding: 17px 0;
+    width: 273px;
+  }
+  
+  .frame .divw-nb7-image-container {
+    height: 56px;
+    margin-right: 8.0px;
+    width: 231px;
+  }
+  
+  .frame .divw-nb7-title-description-1 {
+    padding: 0px 22px 0px 0px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .grande-slection-super-offres {
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .parcourez-des-centai {
+    letter-spacing: 0;
+    line-height: 20px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divw-nb7-title-description-2 {
+    padding: 0px 77px 0px 0px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .rservation-flexible {
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .trouvez-facilement-d {
+    letter-spacing: 0;
+    line-height: 20px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divw-nb7-title-description-3 {
+    padding: 0px 24px 0px 0px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .voyagez-avec-moins-de-co {
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .comprenez-limpact-e {
+    letter-spacing: 0;
+    line-height: 20px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divw-nb7-title-description-4 {
+    padding: 0px 40px 0px 0px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .vrifi-et-gratuit {
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .utilisation-entirem {
+    letter-spacing: 0;
+    line-height: 20px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .overlap-group {
+    align-items: flex-end;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454fea9d5537ca1a4a2961c/img/div-atnn.png);
+    background-size: 100% 100%;
+    border-radius: 8px;
+    display: flex;
+    height: 498px;
+    margin-top: 48px;
+    min-width: 1140px;
+    padding: 32px;
+  }
+  
+  .frame .divfny6-content-2 {
+    background-color: var(--white);
+    border-radius: 8px;
+    padding: 24px;
+  }
+  
+  .frame .divv-gw8 {
+    height: 204px;
+    min-width: 488px;
+    position: relative;
+  }
+  
+  .frame .flex-col {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 204px;
+    width: 488px;
+  }
+  
+  .frame .nos-meilleurs-offres-aujourdhui {
+    color: var(--mirage);
+    font-family: var(--font-family-roboto);
+    font-size: 32px;
+    font-weight: 700;
+    height: 80px;
+    letter-spacing: 0;
+    line-height: 40px;
+    margin-top: -1px;
+    min-width: 293px;
+    position: relative;
+  }
+  
+  .frame .laissez-votre-budget {
+    height: 48px;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: 8px;
+    min-width: 429px;
+    position: relative;
+  }
+  
+  .frame .button-iqt3 {
+    align-items: flex-start;
+    background-color: var(--cape-cod);
+    border-radius: 4px;
+    display: flex;
+    margin-top: 33px;
+    padding: 10px 16.34px 10px 16px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .voir-les-offres {
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-top: -1.00px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .divkml-layout-1 {
+    align-items: center;
+    margin-top: 48px;
+    min-height: 441px;
+  }
+  
+  .frame .div-kze-v-header {
+    gap: 16px;
+    height: 74px;
+    min-width: 1140px;
+  }
+  
+  .frame .div-kze-v-info {
+    flex-direction: column;
+    gap: 2px;
+    padding: 0px 647.34px 0px 0px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .explorez-le-monde-de-san-francisco {
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .trouvez-des-vols-du {
+    letter-spacing: 0;
+    line-height: 24px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .cliquez-ici-pour-en {
+    align-items: flex-start;
+    align-self: center;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--mirage);
+    border-radius: 4px;
+    display: flex;
+    margin-bottom: 16.0px;
+    padding: 10px 16.66px 10px 16px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .tout-voir {
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .divm-nz-g-splitview {
+    align-items: flex-start;
+    display: flex;
+    height: 367px;
+    min-width: 1140px;
+  }
+  
+  .frame .div {
+    align-items: flex-start;
+    display: flex;
+    width: 570px;
+  }
+  
+  .frame .div-1 {
+    align-items: flex-start;
+    background-color: #e5e3df;
+    display: flex;
+    min-width: 570px;
+  }
+  
+  .frame .overlap-group6 {
+    height: 350px;
+    position: relative;
+    width: 570px;
+  }
+  
+  .frame .carte {
+    align-items: flex-start;
+    display: flex;
+    gap: 174px;
+    height: 350px;
+    justify-content: flex-end;
+    left: 0;
+    min-width: 570px;
+    padding: 23px 0;
+    position: absolute;
+    top: 0;
+  }
+  
+  .frame .div-2 {
+    align-items: flex-end;
+    display: flex;
+    height: 1px;
+    justify-content: flex-end;
+    min-width: 1px;
+  }
+  
+  .frame .flex-col-1 {
+    margin-bottom: -326px;
+    width: 110px;
+  }
+  
+  .frame .vt {
+    height: 23px;
+    width: 110px;
+  }
+  
+  .frame .vt-1 {
+    height: 256px;
+    width: 110px;
+  }
+  
+  .frame .vt-2 {
+    height: 71px;
+    width: 110px;
+  }
+  
+  .frame .flex-row-1 {
+    align-items: flex-start;
+    display: flex;
+    height: 350px;
+    margin-bottom: -326px;
+    min-width: 460px;
+  }
+  
+  .frame .flex-col-2 {
+    width: 256px;
+  }
+  
+  .frame .vt-3 {
+    height: 23px;
+    width: 256px;
+  }
+  
+  .frame .vt-4 {
+    height: 256px;
+    width: 256px;
+  }
+  
+  .frame .vt-5 {
+    height: 71px;
+    width: 256px;
+  }
+  
+  .frame .flex-col-3 {
+    width: 204px;
+  }
+  
+  .frame .vt-6 {
+    height: 23px;
+    width: 204px;
+  }
+  
+  .frame .vt-7 {
+    height: 256px;
+    width: 204px;
+  }
+  
+  .frame .vt-8 {
+    height: 71px;
+    width: 204px;
+  }
+  
+  .frame .div-3 {
+    align-items: flex-start;
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    gap: 13px;
+    margin-top: 1.0px;
+    min-height: 1px;
+    width: 570px;
+  }
+  
+  .frame .overlap-group-container {
+    height: 52px;
+    margin-left: -29.19px;
+    margin-top: -44px;
+    position: relative;
+    width: 52px;
+  }
+  
+  .frame .divpopup-container {
+    height: 34px;
+    left: 7px;
+    position: absolute;
+    top: 18px;
+    width: 46px;
+  }
+  
+  .frame .divpopup-content {
+    align-items: flex-start;
+    background-color: var(--cape-cod);
+    border: 1px solid;
+    border-radius: 4px;
+    box-shadow: 0px -1px 4px #1920240a , 0px 3px 6px #19202429;
+    display: flex;
+    left: 0;
+    padding: 3px 7.81px 3px 7px;
+    position: absolute;
+    top: 0;
+    width: fit-content;
+  }
+  
+  .frame .price {
+    line-height: 18px;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divpopup-tip {
+    border: 6px solid;
+    border-color: var(--cape-cod);
+    height: 12px;
+    left: 17px;
+    position: absolute;
+    top: 22px;
+    width: 12px;
+  }
+  
+  .frame .divpopup-container-1 {
+    height: 39px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 36px;
+  }
+  
+  .frame .divpopup-content-1 {
+    height: 38px;
+    width: 36px;
+  }
+  
+  .frame .divpopup-tip-1 {
+    border: 6px solid;
+    border-color: var(--cape-cod);
+    height: 12px;
+    left: 12px;
+    position: absolute;
+    top: 27px;
+    width: 12px;
+  }
+  
+  .frame .overlap-group-container-1 {
+    height: 35px;
+    margin-left: 16.42px;
+    position: relative;
+    width: 62px;
+  }
+  
+  .frame .divpopup-container-2 {
+    height: 34px;
+    left: 16px;
+    position: absolute;
+    top: 0;
+    width: 46px;
+  }
+  
+  .frame .divpopup-content-2 {
+    align-items: flex-start;
+    background-color: var(--cape-cod);
+    border: 1px solid;
+    border-radius: 4px;
+    box-shadow: 0px -1px 4px #1920240a , 0px 3px 6px #19202429;
+    display: flex;
+    padding: 3px 8.27px 3px 7px;
+    width: fit-content;
+  }
+  
+  .frame .divpopup-container-3 {
+    height: 34px;
+    left: 0;
+    position: absolute;
+    top: 1px;
+    width: 46px;
+  }
+  
+  .frame .divpopup-content-3 {
+    align-items: flex-start;
+    background-color: var(--cape-cod);
+    border: 1px solid;
+    border-radius: 4px;
+    box-shadow: 0px -1px 4px #1920240a , 0px 3px 6px #19202429;
+    display: flex;
+    padding: 3px 8.31px 3px 7px;
+    width: fit-content;
+  }
+  
+  .frame .div-4 {
+    align-items: flex-start;
+    display: flex;
+    gap: 1px;
+    height: 14px;
+    justify-content: flex-end;
+    left: 205px;
+    min-width: 365px;
+    position: absolute;
+    top: 336px;
+  }
+  
+  .frame .overlap-group-1 {
+    align-items: flex-start;
+    background-color: var(--cultured-pearl-2);
+    display: flex;
+    height: 14px;
+    min-width: 92px;
+    padding: 0.1px 5px;
+  }
+  
+  .frame .raccourcis-clavier {
+    height: 11px;
+    letter-spacing: 0;
+    line-height: 14px;
+    text-align: center;
+    white-space: nowrap;
+    width: 81px;
+  }
+  
+  .frame .overlap-group1 {
+    align-items: flex-start;
+    background-color: var(--cultured-pearl-2);
+    display: flex;
+    height: 14px;
+    min-width: 158px;
+    padding: 0.1px 5px;
+  }
+  
+  .frame .copyright {
+    height: 11px;
+    line-height: 14px;
+    text-align: right;
+    width: 147px;
+  }
+  
+  .frame .overlap-group2 {
+    align-items: flex-start;
+    background-color: var(--cultured-pearl-2);
+    display: flex;
+    height: 14px;
+    min-width: 112px;
+    padding: 0.1px 5px;
+  }
+  
+  .frame .conditions-dutilisation {
+    height: 11px;
+    line-height: 14px;
+    text-align: right;
+    width: 102px;
+  }
+  
+  .frame .image {
+    height: 26px;
+    left: 5px;
+    position: absolute;
+    top: 324px;
+    width: 66px;
+  }
+  
+  .frame .divm-nz-g-splitview-item {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    min-height: 367px;
+    width: 570px;
+  }
+  
+  .frame .divl-l-pg-splitview-list-item-1 {
+    align-items: center;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: var(--geyser);
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: flex;
+    height: 123px;
+    min-width: 554px;
+  }
+  
+  .frame .divw-nb7-image-container-1 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454fea9d5537ca1a4a2961c/img/mexico@2x.png);
+  }
+  
+  .frame .divw-nb7-title-description-5 {
+    margin-left: 16px;
+    min-height: 64px;
+    width: 409px;
+  }
+  
+  .frame .place {
+    height: 24px;
+    line-height: 24px;
+    margin-top: -1px;
+  }
+  
+  .frame .sfo {
+    height: 18px;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-top: 2px;
+    white-space: nowrap;
+  }
+  
+  .frame .price-1 {
+    height: 20px;
+    line-height: 20px;
+  }
+  
+  .frame .svg-2 {
+    height: 28px;
+    margin-left: 4px;
+    width: 24px;
+  }
+  
+  .frame .divl-l-pg-splitview-list-item {
+    align-items: center;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: var(--geyser);
+    display: flex;
+    height: 122px;
+    min-width: 554px;
+    padding: 16px 0;
+  }
+  
+  .frame .divw-nb7-image-container-2 {
+    align-self: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454fea9d5537ca1a4a2961c/img/burbank@2x.png);
+  }
+  
+  .frame .divw-nb7-title-description {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.0px;
+    margin-left: 16px;
+    min-height: 64px;
+    width: 409px;
+  }
+  
+  .frame .svg-3 {
+    height: 28px;
+    margin-bottom: 1.0px;
+    margin-left: 4px;
+    width: 24px;
+  }
+  
+  .frame .divw-nb7-image-container-3 {
+    align-self: flex-start;
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454fea9d5537ca1a4a2961c/img/manzanillo@2x.png);
+  }
+  
+  .frame .svg-4 {
+    height: 28px;
+    margin-bottom: 1.0px;
+    margin-left: 4px;
+    width: 24px;
+  }
+  
+  .frame .divkml-layout-2 {
+    align-items: center;
+    gap: 8px;
+    margin-top: 48px;
+    min-height: 458px;
+  }
+  
+  .frame .div-kze-v-info-1 {
+    padding: 0px 478px 0px 0px;
+  }
+  
+  .frame .astuces-pour-votre-vol {
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .obtenez-de-laide-et {
+    letter-spacing: 0;
+    line-height: 24px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .divc-5pd-list {
+    width: 1156px;
+  }
+  
+  .frame .divc-5pd-inner {
+    flex: 1;
+    gap: 16px;
+    padding: 8px;
+    width: fit-content;
+  }
+  
+  .frame .divfny6-image-container {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454fea9d5537ca1a4a2961c/img/pr-voyez-un-petit-voyage--ou-deux--au-mois-de-mai@2x.png);
+    background-size: 100% 100%;
+    border-radius: 8px;
+    height: 270px;
+    min-width: 273px;
+    position: relative;
+  }
+  
+  .frame .divfny6-content {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: 12px 0px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .h5fny6-title {
+    align-items: flex-start;
+    display: flex;
+    padding: 0px 22px 0px 0px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .prvoyez-un-petit-vo {
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .div-5 {
+    align-items: flex-start;
+    display: flex;
+    padding: 0px 19px 0px 0px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .profitez-des-beaux-j {
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divfny6-image-container-1 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454fea9d5537ca1a4a2961c/img/envie-de-voir-le-couronnement-du-roi--@2x.png);
+    height: 270px;
+    min-width: 273px;
+  }
+  
+  .frame .h5fny6-title-1 {
+    padding: 0px 34px 0px 0px;
+  }
+  
+  .frame .envie-de-voir-le-couronnement-du-roi {
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .div-6 {
+    align-items: flex-start;
+    display: flex;
+    padding: 0px 55px 0px 0px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .si-vous-allez-lond {
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divfny6-image-container-2 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454fea9d5537ca1a4a2961c/img/nouveau---index-des-villes@2x.png);
+    height: 270px;
+    min-width: 273px;
+  }
+  
+  .frame .nouveau-index-des-villes {
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .div-7 {
+    align-items: flex-start;
+    display: flex;
+    padding: 0px 22px 0px 0px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .vous-essayez-de-fair {
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divfny6-image-container-3 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454fea9d5537ca1a4a2961c/img/id-es-pour-les-voyageur-euses-lgbtq@2x.png);
+    height: 270px;
+    min-width: 273px;
+  }
+  
+  .frame .h5fny6-title-2 {
+    padding: 0px 55px 0px 0px;
+  }
+  
+  .frame .ides-pour-les-voyageureuses-lgbtq {
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .div-8 {
+    align-items: flex-start;
+    display: flex;
+    padding: 0px 35px 0px 0px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .des-recommandations {
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divq57-a {
+    align-items: center;
+    border: 1px solid;
+    border-color: var(--geyser);
+    border-radius: 8px;
+    display: flex;
+    height: 190px;
+    margin-top: 48px;
+    min-width: 1140px;
+    padding: 0 25px;
+  }
+  
+  .frame .svgq57-a-illustration {
+    height: 140px;
+    width: 200px;
+  }
+  
+  .frame .div-9 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 0.01px;
+    padding: 0px 0px 3.81e-06px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .div-vkz-d {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    padding: 0px 38.69px 0.69px 0px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .recevez-notre-newsletter {
+    color: var(--log-cabin);
+    font-family: var(--font-family-roboto);
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .inscrivez-vous-pour {
+    color: var(--log-cabin);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xs3);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 19.7px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .formc3-i_m {
+    align-items: flex-start;
+    display: flex;
+    gap: 16px;
+    padding: 0px 0.01px 0px 0px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divk_my-2 {
+    align-items: center;
+    background-color: var(--white);
+    border-color: var(--gray-chateau);
+    border-radius: 4px;
+    gap: 8px;
+    padding: 7.81px 9px 8.19px 11px;
+  }
+  
+  .frame .svg-5 {
+    height: 18px;
+    min-width: 18px;
+    position: relative;
+  }
+  
+  .frame .divplaceholder-1 {
+    padding: 1px 382.73px 1px 0px;
+  }
+  
+  .frame .saisissez-votre-adresse-e-mail {
+    color: var(--sonic-silver);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xs3);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .inscrivez-vous-notre-newsletter {
+    align-items: flex-start;
+    background-color: #d9e2e899;
+    border-radius: 4px;
+    display: flex;
+    padding: 10px 17.95px 10px 18px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .sabonner {
+    color: var(--gray-chateau);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-l2);
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-top: -1.00px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .overlap-group7 {
+    align-self: flex-end;
+    height: 519px;
+    margin-right: 2px;
+    margin-top: 48px;
+    position: relative;
+    width: 1176px;
+  }
+  
+  .frame .div-kze-v-header-1 {
+    align-items: flex-start;
+    display: flex;
+    gap: 16px;
+    height: 74px;
+    left: 8px;
+    min-width: 1140px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .frame .div-kze-v-info-2 {
+    padding: 0px 455.13px 0px 0px;
+  }
+  
+  .frame .droit-au-but {
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .vitez-les-escales-e {
+    letter-spacing: 0;
+    line-height: 24px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .cliquez-ici-pour-en-1 {
+    align-items: flex-start;
+    align-self: center;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--mirage);
+    border-radius: 4px;
+    display: flex;
+    margin-bottom: 16.0px;
+    padding: 10px 16.88px 10px 16px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .voir-plus {
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .overlap-group-2 {
+    height: 453px;
+    left: 0;
+    position: absolute;
+    top: 66px;
+    width: 1176px;
+  }
+  
+  .frame .divc-5pd-list-1 {
+    align-items: flex-start;
+    display: flex;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1156px;
+  }
+  
+  .frame .divfny6-image-container-4 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454fea9d5537ca1a4a2961c/img/los-angeles--ca@2x.png);
+    height: 367px;
+    min-width: 273px;
+    overflow: hidden;
+  }
+  
+  .frame .divz-gc-mod-theme-default {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 1px solid;
+    border-radius: 4px;
+    display: flex;
+    left: 12px;
+    padding: 3px 10.58px 3px 9px;
+    position: relative;
+    top: 331px;
+    width: fit-content;
+  }
+  
+  .frame .nonstop {
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-top: -1.00px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .divfny6-content-3 {
+    flex-direction: column;
+    gap: 2px;
+    padding: 12px 156px 12px 0px;
+  }
+  
+  .frame .los-angeles-ca {
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .divfny6-image-container-5 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454fea9d5537ca1a4a2961c/img/las-vegas--nv@2x.png);
+    height: 367px;
+    min-width: 273px;
+    overflow: hidden;
+  }
+  
+  .frame .divfny6-content-4 {
+    flex-direction: column;
+    gap: 2px;
+    padding: 12px 169px 12px 0px;
+  }
+  
+  .frame .las-vegas-nv {
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .divfny6-image-container-6 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454fea9d5537ca1a4a2961c/img/denver--co@2x.png);
+    height: 367px;
+    min-width: 273px;
+    overflow: hidden;
+  }
+  
+  .frame .divfny6-content-1 {
+    flex-direction: column;
+    gap: 2px;
+    padding: 12px 179px 12px 0px;
+  }
+  
+  .frame .denver-co {
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .divfny6-image-container-7 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454fea9d5537ca1a4a2961c/img/phoenix--az@2x.png);
+    height: 367px;
+    min-width: 273px;
+    overflow: hidden;
+  }
+  
+  .frame .phoenix-az {
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .suivant {
+    height: 58px;
+    left: 1120px;
+    position: absolute;
+    top: 164px;
+    width: 56px;
+  }
+  
+  .frame .divkml-layout-3 {
+    align-items: flex-end;
+    gap: 8px;
+    margin-top: 40px;
+    min-height: 523px;
+    padding: 0 2px;
+  }
+  
+  .frame .div-kze-v-info-3 {
+    align-self: center;
+    padding: 0px 765px 0px 0px;
+  }
+  
+  .frame .les-7-villes-les-plus-populaires {
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .consultez-ce-que-les {
+    letter-spacing: 0;
+    line-height: 24px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .overlap-group-3 {
+    height: 465px;
+    position: relative;
+    width: 1176px;
+  }
+  
+  .frame .divfny6-image-container-8 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454fea9d5537ca1a4a2961c/img/paris--france.png);
+    height: 367px;
+    min-width: 562px;
+    z-index: 1;
+  }
+  
+  .frame .divfny6-content-5 {
+    flex-direction: column;
+    gap: 2px;
+    padding: 12px 380px 24px 0px;
+    z-index: 0;
+  }
+  
+  .frame .paris-france {
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .divfny6-image-container-9 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454fea9d5537ca1a4a2961c/img/alger--alg-rie.png);
+    height: 367px;
+    min-width: 562px;
+    z-index: 1;
+  }
+  
+  .frame .divfny6-content-6 {
+    flex-direction: column;
+    gap: 2px;
+    padding: 12px 370px 24px 0px;
+    z-index: 0;
+  }
+  
+  .frame .alger-algrie {
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .divkml-layout-4 {
+    align-items: center;
+    gap: 8px;
+    margin-top: 48px;
+    min-height: 515px;
+  }
+  
+  .frame .div-kze-v-info-4 {
+    padding: 0px 680px 0px 0px;
+  }
+  
+  .frame .tlchargez-lappli-kayak {
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .profitez-davantages {
+    letter-spacing: 0;
+    line-height: 24px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .afny6-1 {
+    gap: 12px;
+    padding: 0px 0px 14px;
+  }
+  
+  .frame .divfny6-image-container-10 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454fea9d5537ca1a4a2961c/img/mobile-app-promotion-image-1.png);
+    height: 367px;
+    min-width: 562px;
+    z-index: 1;
+  }
+  
+  .frame .obtenez-nos-meilleur {
+    letter-spacing: 0;
+    line-height: 24px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+    z-index: 0;
+  }
+  
+  .frame .divfny6-image-container-11 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6454fea9d5537ca1a4a2961c/img/mobile-app-promotion-image-2.png);
+    height: 367px;
+    min-width: 562px;
+    z-index: 1;
+  }
+  
+  .frame .h5fny6-title-3 {
+    padding: 0px 60px 0px 0px;
+    z-index: 0;
+  }
+  
+  .frame .recevez-une-notifica {
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divu-j-m {
+    align-items: center;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    min-height: 972px;
+    width: 1200px;
+  }
+  
+  .frame .divv-jfp-container {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 627px;
+    width: 1140px;
+  }
+  
+  .frame .trouvez-un-billet-d {
+    height: 30px;
+    letter-spacing: 0;
+    line-height: 32px;
+    margin-bottom: -2px;
+    white-space: nowrap;
+  }
+  
+  .frame .recherchez-des-vols-pas-chers {
+    height: 20px;
+    letter-spacing: 0;
+    line-height: 24px;
+    margin-bottom: -4px;
+    margin-top: 7px;
+    white-space: nowrap;
+  }
+  
+  .frame .faites-des-conomies {
+    height: 60px;
+    letter-spacing: 0;
+    line-height: 19.7px;
+    margin-top: 25px;
+    min-width: 1092px;
+    position: relative;
+  }
+  
+  .frame .divv-jfp-links-wrapper {
+    align-items: flex-start;
+    display: flex;
+    gap: 40px;
+    height: 468px;
+    margin-top: 17px;
+    min-width: 1140px;
+  }
+  
+  .frame .divv-jfp-links-wrapper-item {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    min-height: 468px;
+    width: 353px;
+  }
+  
+  .frame .divp_-ok-wrapper-1 {
+    gap: 232px;
+  }
+  
+  .frame .vols-pour-paris {
+    width: 98px;
+  }
+  
+  .frame .svg-6 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper {
+    align-items: flex-start;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: var(--mystic);
+    display: flex;
+    gap: 204px;
+    height: 40px;
+    min-width: 353px;
+  }
+  
+  .frame .vols-pour {
+    height: 18px;
+    line-height: 20px;
+    margin-top: 2px;
+    width: 125px;
+  }
+  
+  .frame .svg-7 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-2 {
+    gap: 226px;
+  }
+  
+  .frame .vols-pour-rome {
+    width: 103px;
+  }
+  
+  .frame .svg-8 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .svg-9 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-3 {
+    gap: 189px;
+  }
+  
+  .frame .vols-pour-amsterdam {
+    width: 140px;
+  }
+  
+  .frame .svg-10 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-4 {
+    gap: 192px;
+  }
+  
+  .frame .vols-pour-martinique {
+    width: 137px;
+  }
+  
+  .frame .svg-11 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-5 {
+    gap: 200px;
+  }
+  
+  .frame .vols-pour-thalande {
+    width: 129px;
+  }
+  
+  .frame .svg-12 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-6 {
+    gap: 216px;
+  }
+  
+  .frame .vols-pour-ajaccio {
+    width: 114px;
+  }
+  
+  .frame .svg-13 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-7 {
+    gap: 227px;
+  }
+  
+  .frame .vols-pour-figari {
+    width: 102px;
+  }
+  
+  .frame .svg-14 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-8 {
+    gap: 203px;
+  }
+  
+  .frame .vols-pour-new-york {
+    height: 18px;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-top: 2px;
+    white-space: nowrap;
+    width: 127px;
+  }
+  
+  .frame .svg-15 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-9 {
+    gap: 211px;
+  }
+  
+  .frame .vols-pour-londres {
+    width: 118px;
+  }
+  
+  .frame .svg-16 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-10 {
+    gap: 193px;
+  }
+  
+  .frame .vols-pour-marrakech {
+    width: 136px;
+  }
+  
+  .frame .svg-17 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-11 {
+    gap: 217px;
+  }
+  
+  .frame .vols-pour-madrid {
+    width: 112px;
+  }
+  
+  .frame .svg-18 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-12 {
+    gap: 240px;
+  }
+  
+  .frame .vols-pour-bali {
+    width: 90px;
+  }
+  
+  .frame .svg-19 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-13 {
+    gap: 184px;
+  }
+  
+  .frame .vols-pour-guadeloupe {
+    width: 146px;
+  }
+  
+  .frame .svg-20 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-14 {
+    gap: 214px;
+  }
+  
+  .frame .vols-pour-canada {
+    width: 116px;
+  }
+  
+  .frame .svg-21 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-15 {
+    gap: 223px;
+  }
+  
+  .frame .vols-pour-bastia {
+    width: 106px;
+  }
+  
+  .frame .svg-22 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .svg-23 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-16 {
+    gap: 208px;
+  }
+  
+  .frame .vols-pour-bangkok {
+    width: 122px;
+  }
+  
+  .frame .svg-24 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-17 {
+    gap: 197px;
+  }
+  
+  .frame .vols-pour-barcelone {
+    width: 132px;
+  }
+  
+  .frame .svg-25 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-18 {
+    gap: 228px;
+  }
+  
+  .frame .vols-pour-porto {
+    width: 101px;
+  }
+  
+  .frame .svg-26 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-19 {
+    gap: 185px;
+  }
+  
+  .frame .vols-pour-los-angeles {
+    height: 18px;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-top: 2px;
+    white-space: nowrap;
+    width: 144px;
+  }
+  
+  .frame .svg-27 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-20 {
+    gap: 138px;
+  }
+  
+  .frame .vols-pour-palma-de-majorque {
+    height: 18px;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-top: 2px;
+    white-space: nowrap;
+    width: 192px;
+  }
+  
+  .frame .svg-28 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-21 {
+    gap: 222px;
+  }
+  
+  .frame .vols-pour-maroc {
+    width: 107px;
+  }
+  
+  .frame .svg-29 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-22 {
+    gap: 229px;
+  }
+  
+  .frame .vols-pour-alger {
+    width: 100px;
+  }
+  
+  .frame .svg-30 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-23 {
+    gap: 234px;
+  }
+  
+  .frame .vols-pour-nice {
+    width: 95px;
+  }
+  
+  .frame .svg-31 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .divp_-ok-wrapper-24 {
+    gap: 205px;
+  }
+  
+  .frame .vols-pour-toulouse {
+    width: 124px;
+  }
+  
+  .frame .svg-32 {
+    height: 24px;
+    width: 24px;
+  }
+  
+  .frame .div-fe-mg {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    min-height: 225px;
+    width: 1140px;
+  }
+  
+  .frame .foire-aux-questions {
+    height: 30px;
+    letter-spacing: 0;
+    line-height: 32px;
+    white-space: nowrap;
+  }
+  
+  .frame .div-front-door-faqs-desktop {
+    align-items: flex-start;
+    display: flex;
+    height: 169px;
+    margin-left: -8px;
+    min-width: 1156px;
+  }
+  
+  .frame .div-front-door-faqs__column {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 0px 8px 12px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .div-front-door-faqs__item {
+    align-items: flex-start;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: var(--mystic);
+    display: flex;
+    padding: 0px 0px 1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .div-front-door-faqs__row {
+    height: 36px;
+    min-width: 562px;
+    position: relative;
+  }
+  
+  .frame .comment-kayak-trouve {
+    height: 22px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+  }
+  
+  .frame .svgcommon-widgets-chevron {
+    height: 16px;
+    left: 546px;
+    position: absolute;
+    top: 4px;
+    width: 16px;
+  }
+  
+  .frame .comment-puis-je-con {
+    height: 22px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+  }
+  
+  .frame .div-front-door-faqs__row-1 {
+    height: 58px;
+    min-width: 562px;
+    position: relative;
+  }
+  
+  .frame .h4-front-door-faqs__question {
+    align-items: flex-start;
+    display: flex;
+    left: 0;
+    padding: 0px 3.3px 0px 0px;
+    position: absolute;
+    top: -11px;
+    width: fit-content;
+  }
+  
+  .frame .comment-est-ce-que-l {
+    color: var(--shark);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-l2);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-top: -1.00px;
+    position: relative;
+    width: 532.7px;
+  }
+  
+  .frame .svgcommon-widgets-chevron-1 {
+    height: 16px;
+    left: 546px;
+    position: absolute;
+    top: 16px;
+    width: 16px;
+  }
+  
+  .frame .div-front-door-faqs__column-1 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 0px 8px 34px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .comment-trouver-les {
+    height: 22px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+  }
+  
+  .frame .est-ce-que-kayak-rec {
+    height: 22px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+  }
+  
+  .frame .que-sont-les-dates {
+    height: 22px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    top: -1px;
+    white-space: nowrap;
+  }
+  
+  .frame .footerreact-footer {
+    align-items: flex-end;
+    background-color: var(--shark);
+    display: flex;
+    flex-direction: column;
+    min-height: 523px;
+    padding: 0.0px 30px;
+    width: 1440px;
+  }
+  
+  .frame .divreact-footer__menu {
+    gap: 4px;
+    height: 262px;
+    margin-top: 40px;
+    min-width: 1140px;
+  }
+  
+  .frame .divreact-footer__primary_links {
+    gap: 8px;
+    padding: 0px 4px 40px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divreact-navigation-column {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 15.81px;
+    padding: 18.19px 0px 8px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .entreprise {
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+    z-index: 1;
+  }
+  
+  .frame .ulreact-navigation-links {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 0px 177px 0px 0px;
+    position: relative;
+    width: fit-content;
+    z-index: 0;
+  }
+  
+  .frame .propos {
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .offres-demploi {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .place-1 {
+    line-height: 16px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .blog {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .mentions-lgales {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .notre-fonctionnement {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .voyage-responsable {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .place-2 {
+    line-height: 20px;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+    z-index: 1;
+  }
+  
+  .frame .ulreact-navigation-links-1 {
+    padding: 0px 180px 0px 0px;
+  }
+  
+  .frame .aidefaq {
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .presse {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .affiliation {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .propritaires-dhtels {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .professionnels {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .faire-de-la-publicit {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .plus {
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+    z-index: 1;
+  }
+  
+  .frame .ulreact-navigation-links-2 {
+    padding: 0px 162px 0px 0px;
+  }
+  
+  .frame .frais-de-compagnies {
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .compagnies-ariennes {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .astuces-meilleurs-tarifs {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .badges-et-certificats {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .divreact-navigation-column-1 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 262px;
+    padding: 18.2px 0;
+    width: 253px;
+  }
+  
+  .frame .site-devise {
+    height: 18px;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: -2px;
+    white-space: nowrap;
+  }
+  
+  .frame .buttonk_8-y {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: var(--regent-gray);
+    border-radius: 3px;
+    display: flex;
+    margin-top: 18px;
+    padding: 9px 13px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divreact-country-picker-trigger__content {
+    align-items: flex-start;
+    display: flex;
+    gap: 9.5px;
+    padding: 0px 144px 0px 8.5px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .spancountry-flag {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6453a535f8978f782d60bf63/img/span-country-flag-1@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 14px;
+    min-width: 18px;
+    position: relative;
+  }
+  
+  .frame .place-3 {
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .frame .svg-33 {
+    height: 13px;
+    min-width: 13px;
+    position: relative;
+  }
+  
+  .frame .slectionner-une-devise {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: var(--regent-gray);
+    border-radius: 3px;
+    display: flex;
+    gap: 154.81px;
+    margin-top: 8px;
+    padding: 9px 13px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divch-xn-trigger-content {
+    align-items: flex-start;
+    display: flex;
+    gap: 15.37px;
+    padding: 0px 0.19px 1px 13.63px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .price-2 {
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .frame .euro {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1.00px;
+    position: relative;
+    text-align: center;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .svg-34 {
+    height: 13px;
+    min-width: 13px;
+    position: relative;
+  }
+  
+  .frame .divreact-footer-privacy-menu {
+    align-items: flex-end;
+    display: flex;
+    gap: 24px;
+    height: 74px;
+    min-width: 1140px;
+    padding: 17px 413.7px;
+  }
+  
+  .frame .confidentialit {
+    height: 15px;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-bottom: 2px;
+    white-space: nowrap;
+    width: 78px;
+  }
+  
+  .frame .conditions-gnrales {
+    height: 15px;
+    line-height: 18px;
+    margin-bottom: 2px;
+    width: 113px;
+  }
+  
+  .frame .copyright-1 {
+    color: var(--hit-gray);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xs2);
+    font-weight: 400;
+    height: 18px;
+    line-height: 18px;
+    min-width: 70px;
+    position: relative;
+  }
+  
+  .frame .div-10 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    min-height: 92px;
+    padding: 0 16.8px;
+    width: 1140px;
+  }
+  
+  .frame .recherchez-des-vols {
+    align-self: flex-end;
+    height: 27px;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-top: -1px;
+    text-align: center;
+    width: 1106px;
+  }
+  
+  .frame .kayak-vous-aide-auss {
+    height: 13px;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-bottom: -1px;
+    margin-left: 0.19px;
+    margin-top: 13px;
+    text-align: center;
+    white-space: nowrap;
+    width: 283px;
+  }
+  
+  .frame .ce-nest-pas-ce-que {
+    height: 13px;
+    letter-spacing: 0;
+    line-height: 14px;
+    margin-bottom: -1px;
+    margin-left: 0.2px;
+    margin-top: 13px;
+    text-align: center;
+    white-space: nowrap;
+    width: 508px;
+  }
+  
+  .frame .divreact-app-store-sites {
+    align-self: center;
+    height: 55px;
+    margin-left: 240.0px;
+    width: 172px;
+  }
+  
+  .frame .divfv-6-header {
+    align-items: flex-start;
+    background-color: var(--white);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: var(--geyser);
+    display: flex;
+    gap: 458px;
+    height: 62px;
+    justify-content: flex-end;
+    left: 0;
+    min-width: 1440px;
+    padding: 8px 35.0px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .frame .aller-la-page-daccueil-de-kayak {
+    align-self: center;
+    height: 25px;
+    margin-bottom: 1.0px;
+    width: 125px;
+  }
+  
+  .frame .divfv-6-right-section {
+    align-items: center;
+    display: flex;
+    gap: 3.05e-05px;
+    padding: 0px 0px 0px 322.8px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divcommon-layout-rea {
+    align-items: center;
+    display: flex;
+    gap: 8px;
+    padding: 0px 0px 0px 22px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .svgd-tiv {
+    height: 32px;
+    min-width: 32px;
+    position: relative;
+  }
+  
+  .frame .button-iqt3-1 {
+    align-items: flex-start;
+    background-color: var(--white);
+    border: 1px solid;
+    border-color: var(--mirage);
+    border-radius: 4px;
+    display: flex;
+    padding: 8px 16px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .div-iqt3-button-content {
+    border-radius: 4px;
+    height: 29px;
+    min-width: 95.22px;
+    position: relative;
+  }
+  
+  .frame .svgauth-account-icon {
+    height: 25px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 25px;
+  }
+  
+  .frame .connexion {
+    height: 20px;
+    left: 27px;
+    line-height: 20px;
+    position: absolute;
+    text-align: center;
+    top: 4px;
+  }
+  
+  .frame .divs-ic5 {
+    align-items: flex-end;
+    display: flex;
+    gap: 11px;
+    padding: 0px 0.48px 2px 16px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divs-ic5-country-picker {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: var(--white);
+    display: flex;
+    padding: 1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .spancountry-flag-1 {
+    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/64539bd4d88f082f8741ebe8/releases/6453a535f8978f782d60bf63/img/span-country-flag@2x.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 14px;
+    min-width: 18px;
+    position: relative;
+  }
+  
+  .frame .price-3 {
+    color: var(--shark);
+    font-family: var(--font-family-roboto);
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 18px;
+    margin-top: -1.00px;
+    position: relative;
+    text-align: center;
+    width: fit-content;
+  }
+  
+  .frame .div-mv-e2 {
+    align-items: flex-start;
+    background-color: var(--white);
+    border-color: var(--geyser);
+    border-right-style: solid;
+    border-right-width: 1px;
+    display: flex;
+    flex-direction: column;
+    height: 810px;
+    left: 0;
+    padding: 19px 0;
+    position: absolute;
+    top: 0;
+    width: 240px;
+  }
+  
+  .frame .svg-35 {
+    height: 24px;
+    margin-left: 22px;
+    width: 24px;
+  }
+  
+  .frame .nav-mv-e2-nav-container-1 {
+    gap: 10px;
+    margin-top: 23px;
+    min-height: 61px;
+  }
+  
+  .frame .signin {
+    align-items: center;
+    border-radius: 4px;
+    display: flex;
+    gap: 26px;
+    margin-top: 10px;
+    padding: 10px 96px 10px 15px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .svg-36 {
+    height: 20px;
+    min-width: 20px;
+    position: relative;
+  }
+  
+  .frame .connexion-1 {
+    line-height: 16px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .hr-zku-s {
+    background-color: var(--geyser);
+    height: 1px;
+    width: 216px;
+  }
+  
+  .frame .nav-mv-e2-nav-container-2 {
+    min-height: 229px;
+  }
+  
+  .frame .divuv-lb {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: 10px 8px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .rechercher-des-vols {
+    background-color: #e6ebef;
+    padding: 2px 135px 2px 8px;
+  }
+  
+  .frame .place-4 {
+    line-height: 20px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .rechercher-des-htels {
+    padding: 2px 71px 2px 8px;
+  }
+  
+  .frame .hbergements {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .rechercher-des-voitures {
+    padding: 2px 115px 2px 8px;
+  }
+  
+  .frame .voitures {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .trouver-un-vol-htel {
+    align-items: center;
+    border-radius: 4px;
+    display: flex;
+    gap: 17px;
+    padding: 2px 106px 2px 8px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .icne-trouver-des-sjours {
+    height: 36px;
+    min-width: 36px;
+    position: relative;
+  }
+  
+  .frame .vol-htel {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .rechercher-des-trains {
+    padding: 2px 88px 2px 8px;
+  }
+  
+  .frame .icne-rechercher-des-trains {
+    height: 36px;
+    min-width: 36px;
+    position: relative;
+  }
+  
+  .frame .trains-et-bus {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .nav-mv-e2-nav-container-3 {
+    min-height: 145px;
+  }
+  
+  .frame .aller-sur-explore {
+    align-items: center;
+    border-radius: 4px;
+    display: flex;
+    gap: 17px;
+    padding: 2px 116px 2px 8px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .icne-kayak-explore {
+    height: 36px;
+    min-width: 36px;
+    position: relative;
+  }
+  
+  .frame .explore {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .recherchez-des-vols-directs {
+    align-items: center;
+    border-radius: 4px;
+    display: flex;
+    gap: 17px;
+    padding: 2px 95px 2px 8px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .svghs-cy-menu-item-icon {
+    height: 36px;
+    min-width: 36px;
+    position: relative;
+  }
+  
+  .frame .vols-directs {
+    line-height: 16px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .dcouvrez-o-vous-pouvez-partir {
+    align-items: center;
+    border-radius: 4px;
+    display: flex;
+    gap: 17px;
+    padding: 2px 32px 2px 8px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .icne-restrictions-de-voyage {
+    height: 36px;
+    min-width: 36px;
+    position: relative;
+  }
+  
+  .frame .restrictions-de-voyage {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .nav-mv-e2-nav-container {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    min-height: 61px;
+    width: 240px;
+  }
+  
+  .frame .donnez-votre-avis-sur-notre-site {
+    align-items: center;
+    border-radius: 4px;
+    display: flex;
+    gap: 26px;
+    margin-top: 10px;
+    padding: 10px 77px 10px 15px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .svg-37 {
+    height: 20px;
+    min-width: 20px;
+    position: relative;
+  }
+  
+  .frame .commentaires {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .azt1-e-anchor-reset {
+    align-items: center;
+    border-radius: 4px;
+    display: flex;
+    gap: 17px;
+    margin-top: 10px;
+    padding: 2px 134px 2px 8px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .trips {
+    letter-spacing: 0;
+    line-height: 16px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .business {
+    align-items: center;
+    align-self: center;
+    border-radius: 4px;
+    display: flex;
+    gap: 26px;
+    margin-top: 10px;
+    padding: 4px 8px 4px 15px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .svg-38 {
+    height: 20px;
+    min-width: 20px;
+    position: relative;
+  }
+  
+  .frame .divhs-cy-menu-item-title {
+    align-items: center;
+    display: flex;
+    gap: 45.55px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .kayak-business {
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-top: -1.00px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .span {
+    align-items: flex-start;
+    background-color: var(--cape-cod);
+    border-radius: 4px;
+    display: flex;
+    padding: 2px 6.45px 2px 4px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .nouveau {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 12px;
+    margin-top: -1.00px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .afny6-2 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .aller-retour-partir-de {
+    letter-spacing: 0;
+    line-height: 20px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .conditions {
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .frame .connexion-2 {
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .frame .copyright-2 {
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .frame .div-kze-v {
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .frame .div-kze-v-info-5 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divc-5pd {
+    align-items: flex-start;
+    display: flex;
+    position: relative;
+  }
+  
+  .frame .divfny6-content-7 {
+    align-items: flex-start;
+    display: flex;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divfny6-image-container-12 {
+    background-size: 100% 100%;
+    border-radius: 8px;
+    position: relative;
+  }
+  
+  .frame .divk_my-3 {
+    border: 1px solid;
+    display: flex;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divkml-layout-5 {
+    display: flex;
+    flex-direction: column;
+    width: 1200px;
+  }
+  
+  .frame .divp_-ok-wrapper-25 {
+    align-items: flex-start;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: var(--mystic);
+    display: flex;
+    height: 40px;
+    min-width: 353px;
+  }
+  
+  .frame .divplaceholder-2 {
+    align-items: flex-start;
+    display: flex;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .divpopup-content-4 {
+    left: 0;
+    position: absolute;
+    top: 0;
+  }
+  
+  .frame .divreact {
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .frame .divw-nb7-image-container-4 {
+    background-size: 100% 100%;
+    height: 89px;
+    width: 89px;
+  }
+  
+  .frame .divw-nb7-title-description-6 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .frame .divz-ei-p-form {
+    align-items: flex-start;
+    display: flex;
+  }
+  
+  .frame .flex-col-4 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    min-height: 350px;
+  }
+  
+  .frame .h5fny6-title-4 {
+    align-items: flex-start;
+    display: flex;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .icne {
+    height: 36px;
+    min-width: 36px;
+    position: relative;
+  }
+  
+  .frame .nav-mv-e2-nav-container-4 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+  }
+  
+  .frame .partir-de {
+    letter-spacing: 0;
+    line-height: 20px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .frame .place-5 {
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .frame .price-4 {
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .frame .rechercher-des {
+    align-items: center;
+    border-radius: 4px;
+    display: flex;
+    gap: 17px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .frame .ulreact-navigation-links-3 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    position: relative;
+    width: fit-content;
+    z-index: 0;
+  }
+  
+  .frame .vols {
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .frame .vols-pour-1 {
+    height: 18px;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-top: 2px;
+    white-space: nowrap;
+  }
+  @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700,600");
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/64539bc88b4e7062cd31aa28.64539bd182e708c598bdc8c3.64539bd4d88f082f8741ebe8.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+:root { 
+    --black: #000000;
+    --cape-cod: #363f45;
+    --cultured-pearl-2: #f5f5f5b2;
+    --geyser: #d9e2e8;
+    --gray-chateau: #9ba8b0;
+    --hit-gray: #a0afba;
+    --log-cabin: #212b20;
+    --mirage: #192024;
+    --mystic: #e5ebf0;
+    --porcelain: #f0f3f5;
+    --regent-gray: #8596a3;
+    --shark: #212a30;
+    --sonic-silver: #757575;
+    --white: #ffffff;
+   
+    --font-size-l2: 14px;
+    --font-size-l3: 24px;
+    --font-size-m2: 13px;
+    --font-size-xl2: 16px;
+    --font-size-xs2: 11px;
+    --font-size-xs3: 15px;
+    --font-size-xxs2: 9px;
+   
+    --font-family-roboto: "Roboto", Helvetica;
+  }
+  .roboto-semi-bold-shark-14px {
+    color: var(--shark);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-l2);
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .roboto-semi-bold-mirage-16px {
+    color: var(--mirage);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xl2);
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .roboto-normal-mirage-13px {
+    color: var(--mirage);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-m2);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .roboto-normal-mirage-14px {
+    color: var(--mirage);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-l2);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .roboto-normal-white-11px {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xs2);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .roboto-normal-mirage-15px {
+    color: var(--mirage);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xs3);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .roboto-semi-bold-mirage-14px {
+    color: var(--mirage);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-l2);
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .roboto-semi-bold-mirage-24px {
+    color: var(--mirage);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-l3);
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .roboto-semi-bold-white-14px2 {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-l2);
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .roboto-normal-shark-13px {
+    color: var(--shark);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-m2);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .roboto-semi-bold-mirage-12px {
+    color: var(--mirage);
+    font-family: var(--font-family-roboto);
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .roboto-normal-white-12px {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .roboto-semi-bold-white-12px {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .roboto-normal-black-10px {
+    color: var(--black);
+    font-family: var(--font-family-roboto);
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .roboto-normal-mirage-12px {
+    color: var(--mirage);
+    font-family: var(--font-family-roboto);
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .roboto-bold-white-11px {
+    color: var(--white);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xs2);
+    font-style: normal;
+    font-weight: 700;
+  }
+  
+  .roboto-normal-hit-gray-9px {
+    color: var(--hit-gray);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xxs2);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .roboto-semi-bold-shark-24px {
+    color: var(--shark);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-l3);
+    font-style: normal;
+    font-weight: 600;
+  }
+  
+  .roboto-normal-shark-15px {
+    color: var(--shark);
+    font-family: var(--font-family-roboto);
+    font-size: var(--font-size-xs3);
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  .roboto-normal-hit-gray-12px {
+    color: var(--hit-gray);
+    font-family: var(--font-family-roboto);
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+  }
+  
+  
